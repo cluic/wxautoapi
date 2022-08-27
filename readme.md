@@ -6,6 +6,14 @@
 
 版本：测试版，请勿转卖
 
+## 安装
+
+根据python版本，选用相应版本的whl包进行安装
+
+```shell
+pip install wxautoapi-1.0.1-cp37-cp37m-win_amd64.whl
+```
+
 ## 开始使用
 
 **<font color='red'>注意：该项目只支持Windows PC微信3.7.0.29版本，调用前请先检查版本！！！</font>**
