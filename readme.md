@@ -6,11 +6,6 @@
 |  微信  | [![Wechat](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-3.7.0.29-07c160?logo=wechat&logoColor=white)](https://weixin.qq.com/cgi-bin/readtemplate?ang=zh_CN&t=page/faq/win/370/index&faq=win_370)  |
 | Python | [![Python](https://img.shields.io/badge/Python-3.7+-blue?logo=python&logoColor=white)](https://www.python.org/)   |
 
-微信版本：3.7.0.29
-
-更新日期：2022.07.08
-
-版本：测试版，请勿转卖
 
 ## 安装
 
