@@ -7,6 +7,10 @@
 | Python | [![Python](https://img.shields.io/badge/Python-3.7+-blue?logo=python&logoColor=white)](https://www.python.org/)   |
 
 
+## 功能
+
+发送文本消息、图片消息、文件消息、XML卡片，接收消息、保存聊天图片、文件，接受、发送好友请求，多开微信....详情可参考文档
+
 ## 安装
 
 根据python版本，选用[相应版本的whl包](https://github.com/cluic/wxautoapi/tree/main/SetupPackages)进行安装
