@@ -9,7 +9,7 @@
 
 ## 安装
 
-根据python版本，选用相应版本的whl包进行安装
+根据python版本，选用[相应版本的whl包](https://github.com/cluic/wxautoapi/tree/main/SetupPackages)进行安装
 
 ```shell
 pip install wxautoapi-1.0.1-cp37-cp37m-win_amd64.whl
