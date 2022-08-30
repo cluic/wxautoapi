@@ -1,5 +1,7 @@
 # wxautoapi
 
+测试版本V1.0.1
+
 |  环境  | 版本 |
 | :----: | :--: |
 |   OS   | [![Windows](https://img.shields.io/badge/Windows-7+-white?logo=windows&logoColor=white)](https://www.microsoft.com/)  |
