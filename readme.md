@@ -12,7 +12,6 @@
 |  微信  | [![Wechat](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-3.7.0.29-07c160?logo=wechat&logoColor=white)](https://weixin.qq.com/cgi-bin/readtemplate?ang=zh_CN&t=page/faq/win/370/index&faq=win_370)  |
 | Python | [![Python](https://img.shields.io/badge/Python-3.7+-blue?logo=python&logoColor=white)](https://www.python.org/)   |
 
-
 ## 功能
 
 发送文本消息、图片消息、文件消息、XML卡片，接收消息、保存聊天图片、文件，接受、发送好友请求，多开微信....详情可参考文档
@@ -27,11 +26,13 @@ pip install wxautoapi-1.0.1-cp37-cp37m-win_amd64.whl
 
 ## 开始使用
 
-**<font color='red'>注意：该项目只支持Windows PC微信3.7.0.29版本，调用前请先检查版本！！！</font>**
 
-**<font color='red'>注意：该项目只支持Windows PC微信3.7.0.29版本，调用前请先检查版本！！！</font>**
 
-**<font color='red'>注意：该项目只支持Windows PC微信3.7.0.29版本，调用前请先检查版本！！！</font>**
+**<font color='red'>注意：该项目只支持Windows PC微信3.7.0.29版本，调用前请先检查版本！！！</font>**[微信3.7.0.29下载](https://github.com/cluic/wxautoapi/blob/main/WeChatSetup%203.7.0.29.exe)
+
+**<font color='red'>注意：该项目只支持Windows PC微信3.7.0.29版本，调用前请先检查版本！！！</font>**[微信3.7.0.29下载](https://github.com/cluic/wxautoapi/blob/main/WeChatSetup%203.7.0.29.exe)
+
+**<font color='red'>注意：该项目只支持Windows PC微信3.7.0.29版本，调用前请先检查版本！！！</font>**[微信3.7.0.29下载](https://github.com/cluic/wxautoapi/blob/main/WeChatSetup%203.7.0.29.exe)
 
 ![WeChatVersion](https://github.com/cluic/wxautoapi/blob/main/Images/%E5%BE%AE%E4%BF%A1%E7%89%88%E6%9C%AC.png)
 
