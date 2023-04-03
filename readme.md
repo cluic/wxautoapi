@@ -1,15 +1,11 @@
 # wxautoapi
 
-测试版本V1.0.1
-
-本次测试时长一个月，截至日期2022-09-30，有任何问题可提交Issues
-
-测试结束后删除
+如有需要联系QQ：**271374208**，备注api
 
 |  环境  | 版本 |
 | :----: | :--: |
 |   OS   | [![Windows](https://img.shields.io/badge/Windows-7+-white?logo=windows&logoColor=white)](https://www.microsoft.com/)  |
-|  微信  | [![Wechat](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-3.7.0.29-07c160?logo=wechat&logoColor=white)](https://weixin.qq.com/cgi-bin/readtemplate?ang=zh_CN&t=page/faq/win/370/index&faq=win_370)  |
+|  微信  | [![Wechat](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-3.9.0.22-07c160?logo=wechat&logoColor=white)](https://weixin.qq.com/cgi-bin/readtemplate?ang=zh_CN&t=page/faq/win/370/index&faq=win_370)  |
 | Python | [![Python](https://img.shields.io/badge/Python-3.7+-blue?logo=python&logoColor=white)](https://www.python.org/)   |
 
 ## 功能
@@ -27,14 +23,11 @@ pip install wxautoapi-1.0.1-cp37-cp37m-win_amd64.whl
 ## 开始使用
 
 
+项目支持PC微信版本：
 
-**<font color='red'>注意：该项目只支持Windows PC微信3.7.0.29版本，调用前请先检查版本！！！</font>**[微信3.7.0.29下载](https://github.com/cluic/wxautoapi/blob/main/WeChatSetup%203.7.0.29.exe)
+3.7.0.29
 
-**<font color='red'>注意：该项目只支持Windows PC微信3.7.0.29版本，调用前请先检查版本！！！</font>**[微信3.7.0.29下载](https://github.com/cluic/wxautoapi/blob/main/WeChatSetup%203.7.0.29.exe)
-
-**<font color='red'>注意：该项目只支持Windows PC微信3.7.0.29版本，调用前请先检查版本！！！</font>**[微信3.7.0.29下载](https://github.com/cluic/wxautoapi/blob/main/WeChatSetup%203.7.0.29.exe)
-
-![WeChatVersion](https://github.com/cluic/wxautoapi/blob/main/Images/%E5%BE%AE%E4%BF%A1%E7%89%88%E6%9C%AC.png)
+3.9.0.22
 
 
 ## 快速开始：
@@ -102,7 +95,7 @@ pip install wxautoapi-1.0.1-cp37-cp37m-win_amd64.whl
 
 ![MultiApp](https://github.com/cluic/wxautoapi/blob/main/Images/%E5%A4%9A%E5%BC%80%E7%A4%BA%E4%BE%8B.png)
 
-
+### 如有需要联系QQ：**271374208**，备注api
 
 ## 声明
 
